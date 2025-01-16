@@ -1,0 +1,108 @@
+title: classes
+description: extra-curricular classes in central wellington region
+
+classes:
+  - term:
+    - Spotlight:
+      description: sing, dance, act, performance
+      url: https://www.spotlightperformingarts.co.nz/
+      sessions:
+        - { location: newtown, time: "thrusday, 3.25pm", age: "4-6" }
+        - { location: newtown, time: "thrusday, 3.45pm", age: "7-15" }
+        # ...more
+
+    - AcroTumble:
+      description: tumbling, flips?
+      url: https://wellington.govt.nz/recreation/classes/school-aged-children
+      sessions:
+        - { location: karori, time: "thursday 3.30pm", level: beginner }
+        - { location: karori, time: "thursday 4.30pm", level: intermediate }
+        - { location: karori, time: "thursday 3.30pm", level: advanced }
+
+    - Junior_Roller_Derby:
+      description: low contact roller derby, team sport
+      url: https://wellington.govt.nz/recreation/classes/school-aged-children#junior
+      sessions:
+        - { location: kilbernie, time: "wednesday 4.15pm", age: "7-16" }
+
+    # Rollerblade - fridays, kilbernie (ages 5+)
+    # Rollerskate - wednesdays, kilbernie
+
+    - Skateboard:
+      url: https://wellington.govt.nz/recreation/classes/school-aged-children#skateboarding
+      sessions:
+        - { location: kilbernie, time: "monday 3.30pm", age: "5-14", level: beginners }
+        - { location: kilbernie, time: "thursday 3.30pm", age: "5-8", level: beginners }
+        - { location: kilbernie, time: "thursday 4.20pm", age: "5-12", level: intermediate }
+        - { location: kilbernie, time: "thursday 5.10pm", age: "5-12", level: advanced }
+
+    - Leaping_Lizards:
+      description: dance school (hip-hop, jazz, tap, ballet ...)
+      url: https://leaping-lizards.co.nz/
+      sessions:
+        # mainly saturday for Wellington City
+        # Creative Dance, Bop & Hop, Hip Hop, Ballet, Jazz
+
+    # - Encore_Drama_Academy:
+    #   url: https://www.encoredramaacademy.co.nz/classes
+    # NOTE: only in Tawa, Lower Hutt, Khandallay, Whitby
+
+
+    - Flips_and_Tumbles:
+      url: https://www.flipsandtumbleswellington.com
+      description: tumbling, parkour, trampoline
+      ## Lower Hutt
+      sessions:
+        # tumbling: mon, tues, weds, thurs, fri - 4pm + 5pm
+        # parkour: mon, tues, weds, thurs, fri - 4pm + 5pm + 6pm
+        # trampoline: tues, weds - 4pm + 5pm (kinda)
+
+    - Jiu_Jitsu_1st:
+      url: https://jiujitsu1st.co.nz/
+      socials:
+        - https://www.facebook.com/JiuJitsu1st/
+        - https://www.instagram.com/jiujitsu1st/
+      # was Saturdays, no news on when / where classes are
+
+    - Workshop_Jiu_Jitsu:
+      url: https://www.workshopjiujitsu.co.nz/classes
+      sessions:
+        - { location: te_aro, time: "tuesday, 3.45pm", age: "5-8" }
+        - { location: te_aro, time: "saturday, 9am", age: "5-8" }
+        # ...more, but not relevant ages
+
+    - GSW_Wellington_BJJ:
+      url: https://www.bjj.co.nz/
+      sessions:
+        - { location: te_aro, time: "sunday, 10am", age: "5-8" }
+        # ...more, but not relevant ages
+
+    - Combat_Room:
+      description: Jiu Jitsu
+      url: https://www.combatroom.co.nz/
+      sessions:
+        - { location: mount_cook, time: "sunday, 2pm", level: "beginners" }
+        - { location: mount_cook, time: "saturday, 3pm", age: "intermediate" }
+
+    - Capital_BJJ:
+      url: http://www.martialartswellington.co.nz/
+      sessions:
+        - { location: te_aro, time: "sunday, 11am", level: "kids" }
+
+    - Mai_Dojo:
+      url: https://nzjjf.org.nz/NZJJF/jujitsu/mai-dojo-wellington/
+      sessions:
+        - { location: te_aro, time: "sunday, 11am", level: "kids" }
+
+
+  - one-off:
+    - toymaker:
+      description: hands-on workshops, tools
+      url: https://www.toymaker.co.nz/
+
+
+
+resources:
+  - https://wellington.govt.nz/recreation/classes/preschoolers
+  - https://wellington.govt.nz/recreation/classes/school-aged-children
+  - https://nzjjf.org.nz/NZJJF/jujitsu/find-a-club/
