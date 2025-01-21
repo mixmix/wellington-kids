@@ -1,0 +1,66 @@
+title: birthdays
+description: locations you can host a kids birthday
+
+sources:
+  - https://www.eventfinda.co.nz/whatson/events/wellington
+  - https://wellington.govt.nz/news-and-events/event-calendar
+  - https://wellington.govt.nz/community-support-and-resources/resources-and-facilities/council-venues-for-hire/birthday-parties
+
+venues:
+  - Space_Place:
+    - url: https://www.museumswellington.org.nz/venue-hire/birthday-parties/
+    - phone: 049103140
+    - includes:
+      - indoor space
+      - 2.5 hours
+      - 45min planetarium show
+      - entry to gallery
+    - not_included:
+      - food D:
+
+  - WCC_Venues:
+    - url: https://wellington.govt.nz/recreation/activities-for-kids/birthday-parties
+    - notes: pools, ākau tangi, rec centers
+
+  - Staglands:
+    - url: https://www.staglands.co.nz/venues-events/children-s-birthdays/
+
+  - Fergs:
+    - url: https://fergskayaks.co.nz/pages/wellington-birthday-parties
+    - notes: no food
+
+  - Zoo:
+    - url: https://wellingtonzoo.com/
+    - notes: no specific "kids party" offering? roll your own?
+
+  - Carlucciland:
+    - url: https://carlucciland.nz/
+    - notes: has a bbq area, but expensive?
+
+  - Time_Cinema:
+    - url: https://www.timecinema.com/events/
+    - notes: $300, self catered, 
+
+  - Trickle_Creek:
+    - url: https://www.tricklecreek.co.nz/pony-parties
+    - notes: a drive to get there, pony rides
+
+events:
+  - Life_Flight:
+    - url: https://www.lifeflight.org.nz/open-day/
+    - date: 2025_03_23
+    - time: 10am - 2.30pm
+
+
+services:
+  - Rainbow_Circus:
+    - url: https://www.rainbowcircusnz.com/party-packages
+    - notes: offer organised activites
+
+  - Enchanted_Entertainment:
+    - url: https://www.enchantedentertainment.co.nz/party-packages
+    - notes: super-hero/ princess/ makeup/ games?
+
+  - The_Kids_Party_Bus:
+    - url: https://www.thekidspartybus.co.nz/
+    - notes: dinosaur/ fairy themes ...crusty website
